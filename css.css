@@ -1,0 +1,60 @@
+header{
+    color: whitesmoke;
+    width: 170px;
+    margin: auto;
+    
+    
+
+}
+
+body{
+    background-color: black;
+    background-image: url(Img/77.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Julee;
+}
+
+
+img{
+    width: 500px;
+    border: solid blue;
+    box-shadow: 5px 5px gray;
+
+}
+
+#imagen{
+    display: flex;
+    justify-content: center;
+}
+
+#info{
+    color: whitesmoke;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    background-color: black;
+}
+
+
+#separador{
+    text-align: center;
+    color: whitesmoke;
+}
+
+#st{
+    color: whitesmoke;
+    width: 700px;
+    margin: auto;
+    background-color: black;
+}
+
+#stimg{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    color: whitesmoke;
+    text-align: center;
+}
